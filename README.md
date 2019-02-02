@@ -1,3 +1,4 @@
+React + Redux + react-router + React Native + react-map + PouchDB
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
